@@ -49,6 +49,8 @@ related:
 
 # Short description of this project
 description: |-
+## DEPRECATED - this module has moved to GitHub BLISS [github.com/blackboard-innersource/terraform-null-label](https://github.com/blackboard-innersource/terraform-nul-label)
+
   Terraform module designed to generate consistent names and tags for resources. Use `terraform-null-label` to implement a strict naming convention.
 
   A label follows the following convention: `{namespace}-{environment}-{stage}-{name}-{attributes}`. The delimiter (e.g. `-`) is interchangeable.
